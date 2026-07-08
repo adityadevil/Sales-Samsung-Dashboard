@@ -192,16 +192,9 @@ Data Visualization
 
 This project demonstrates how Power BI can transform raw supply chain data into meaningful business insights. By integrating sales, supplier, inventory, shipment, and customer data into a single interactive dashboard, it provides decision-makers with a complete view of supply chain performance and supports smarter, faster, and more effective business decisions.
 
-![Home](https://github.com/USERNAME/REPOSITORY/blob/main/images/home-page.png?raw=true)
+<img width="1371" height="782" alt="home page" src="https://github.com/user-attachments/assets/201e21a2-73be-468c-a717-7af84ba07a74" />
+<img width="1477" height="712" alt="Customer" src="https://github.com/user-attachments/assets/24b000b7-4f5e-429a-b2cf-bd6bb2c9ff5d" />
+<img width="1592" height="767" alt="Inventory" src="https://github.com/user-attachments/assets/82bbb7ba-0b66-49b5-9e89-215b45e45a22" />
 
-![Overview](https://github.com/USERNAME/REPOSITORY/blob/main/images/overview.png?raw=true)
-
-![Supplier](https://github.com/USERNAME/REPOSITORY/blob/main/images/supplier.png?raw=true)
-
-![Inventory](https://github.com/USERNAME/REPOSITORY/blob/main/images/inventory.png?raw=true)
-
-![Shipment](https://github.com/USERNAME/REPOSITORY/blob/main/images/shipment.png?raw=true)
-
-![Customer](https://github.com/USERNAME/REPOSITORY/blob/main/images/customer.png?raw=true)
-
-This project demonstrates how Power BI can transform raw supply chain data into meaningful business insights. By integrating sales, supplier, inventory, shipment, and customer data into a single interactive dashboard, it provides decision-makers with a complete view of supply chain performance and supports smarter, faster, and more effective business decisions.
+<img width="1590" height="787" alt="Supplier" src="https://github.com/user-attachments/assets/441fcd40-9211-4f75-bdca-87c0c0ec3f84" />
+<img width="1492" height="717" alt="Shipment" src="https://github.com/user-attachments/assets/01ddd2f1-8c1e-454b-8f9e-77b5595330b8" />
